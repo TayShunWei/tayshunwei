@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tay</h1>
+<h1 align="center">Hi 👋, I'm TayShunWei</h1>
 <h3 align="center">A network security student</h3>
 
 - 🔭 I’m currently working on **HCI project**
